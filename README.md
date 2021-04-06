@@ -5,4 +5,4 @@
 
 本仓库中Markdown文档比较多，涉及比较多latex公式，建议先安装google插件
 
-![MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima)
+[MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima)
